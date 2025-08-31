@@ -18,5 +18,5 @@
 - 🎮 **Snake Game** – Simple terminal game in C++  
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/aman-ansari-67b7472ba/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/amanitrix))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ansari-67b7472ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/amanitrix)
